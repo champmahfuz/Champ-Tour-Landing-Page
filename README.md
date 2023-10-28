@@ -1,4 +1,4 @@
-Visit our website [Car Hut](https://tour-lnading-page.vercel.app).
+Visit our website [Hilink Tour](https://tour-lnading-page.vercel.app).
 
 - Travel Website Landing Page
   -Main Techonogogy
